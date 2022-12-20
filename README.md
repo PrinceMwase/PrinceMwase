@@ -14,7 +14,7 @@ In my spare time, I indulge my passions for anime, music, and philosophy, always
 | Python         | Expert        |
 | Ruby           | Expert        |
 | PHP            | Expert        |
-| Web design     | Expert        |
+| Rust           | Intermediate  |
 
 ## Hobbies
 
