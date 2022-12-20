@@ -26,7 +26,9 @@ In my spare time, I indulge my passions for anime, music, and philosophy, always
 
  - [x] Created a parts of speech tagger
  - [x] Created a deadlock detection algorithm
- - [x] Become Fluent in EcmaScript :heart:
- - [ ] Get 1000 stars on my repositor
- - [ ] 
+ - [x] Became Fluent in C :heart:
+
+### Contact
+
+You can reach me via email at [princefranklinemwase@gmail.com](mailto:princefranklinemwase@gmail.com).
 
