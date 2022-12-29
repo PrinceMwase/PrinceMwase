@@ -2,12 +2,12 @@
 
 As a highly skilled and experienced system developer with over 8 years of experience in a variety of programming languages, including `JavaScript`, `C++`, `C`, `Python`, `Ruby`, and `PHP`, I am capable of tackling even the most complex projects with ease. I am also proficient in `web design` and have a keen eye for aesthetics, allowing me to create visually appealing and user-friendly websites.
 
-mattaer of fact :
+matter of fact :
 
-`const Maybe = value => ({
-  map: fn => (value === null ? Maybe(null) : Maybe(fn(value))),
-  get: () => value
-});`
+  const Maybe = value => ({
+    map: fn => (value === null ? Maybe(null) : Maybe(fn(value))),
+    get: () => value
+  });
 
 In my spare time, I indulge my passions for anime, music, and philosophy, always seeking new ways to expand my knowledge and understanding of these subjects. I am a true polymath and enjoy sharing my interests and expertise with others. :nerd_face:
 
