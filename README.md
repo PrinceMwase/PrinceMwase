@@ -8,9 +8,6 @@ matter of fact :
       map: fn => (value === null ? Maybe(null) : Maybe(fn(value))),
       get: () => value
     });
-
-In my spare time, I indulge my passions for anime, music, and philosophy, always seeking new ways to expand my knowledge and understanding of these subjects. I am a true polymath and enjoy sharing my interests and expertise with others. :nerd_face:
-
  
 
 ## Skills
