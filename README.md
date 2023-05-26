@@ -2,5 +2,5 @@
 
 ### Contact
 
-You can reach me via email at [princefranklinemwase@gmail.com](mailto:princefranklinemwase@gmail.com).
+You can reach me via email at [helix@sitbecmw.com](mailto:helix@sitbecmw.com).
 
