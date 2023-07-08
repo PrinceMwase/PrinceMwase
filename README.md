@@ -2,5 +2,5 @@
 
 ### Contact
 
-You can reach me via email at [helix@sitbecmw.com](mailto:helix@sitbecmw.com).
+[helix@sitbecmw.com](mailto:helix@sitbecmw.com).
 
